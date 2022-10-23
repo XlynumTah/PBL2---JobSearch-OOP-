@@ -1,0 +1,5 @@
+Nguyen Van An,1998,nguyenan1998@gmail.com,012344556,Sai Gon,Dai hoc,2 nam,15
+Nguyen Dieu,1997,nguyendieu1997@gmail.com,0765542348,Da Nang,Thac si,4 nam,22
+Nguyen Kim An,1999,nguyenan1999@gmail.com,0469439115,Ha Noi,Dai hoc,1 nam,11
+Nguyen Van Bao,2000,nguyeao2000@gmail.com,0433737341,Da Nang,Cao Dang,2 nam,1
+Dinh Hung,1996,dinhhung1996@gmail.com,073632321,Da Nang,Tien Si,5 nam,5

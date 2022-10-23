@@ -1,0 +1,4 @@
+CT TNHH noi that Tan A,1997,noithattana1@gmail.com,0637638927,HCM,Nhan vien Ban hang,1 nam,12tr,31/12/2021,1
+CT TNHH Vietnam Ace,2003,ace23@gmail.com,0383827287,HCM,Nhan vien thu no,2 nam,15tr,27/12/2021,2
+CT TNHH TM DV Spa,2010,spa2010@gmail.com,0378933982,Da Nang,Nhan vien spa,1 nam,14tr,25/12/2021,6
+CT TNHH Yamaha Motor VN,2000,yamahavn@gmail.com,0346874193,HCM,Ky su thiet ke,2 nam,15tr,26/12/2021,5
